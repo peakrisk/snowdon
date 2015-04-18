@@ -9,7 +9,7 @@ the material that Snowden revealed to the world.
 He has shown how completely and utterly broken cyber security is in
 the modern world.
 
-Not that Edward spells his name with an **e** not an **o**.   *E* is
+Note that Edward spells his name with an **e** not an **o**.   *E* is
 for Espionage, *O* is for Open.
 
 It is hoped that this cyber risk model will in time help organisations
